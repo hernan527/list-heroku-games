@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "@reactivex/rxjs": "^6.6.7"
+  }
+}

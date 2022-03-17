@@ -1,0 +1,10 @@
+
+node_modules/
+cliente/
+client2/
+.vscode/
+client/
+game_list/
+Local1.session.sql
+bash.exe.stackdump
+sh.exe.stackdump
